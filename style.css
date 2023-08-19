@@ -1,0 +1,150 @@
+.popup-container {
+    width: 500px;
+    height: 100px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background: #000;
+    color: #fff;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Megrim', cursive;
+    text-shadow:
+        0 0 5px #ff0059,
+        0 0 10px #ff0059,
+        0 0 20px #ff0059,
+        0 0 40px #ff0059,
+        0 0 80px #ff0059;
+}
+
+.input-container {
+    width: 80%;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    background-color: black;
+    /* 背景を黒に */
+    border: 2px solid white;
+    /* outlineを白に */
+    color: rgb(176, 217, 255);
+    /* テキストを青に */
+}
+
+#convertButton {
+    padding: 8px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    background-color: #000;
+    border: 1px solid #21ebff;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #21ebff;
+    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    transition: all 0.3s ease;
+
+}
+
+#converButton:hover {
+    text-shadow:
+        0 0 20px #21ebff,
+        0 0 50px rgba(33, 235, 255, .9),
+        0 0 75px rgba(33, 235, 255, .8),
+        0 0 76px rgba(33, 235, 255, .7),
+        0 0 77px rgba(33, 235, 255, .6),
+        0 0 78px rgba(33, 235, 255, .5),
+        0 0 79px rgba(33, 235, 255, .4),
+        0 0 80px rgba(33, 235, 255, .3),
+        0 0 85px rgba(33, 235, 255, .2),
+        0 0 99px rgba(33, 235, 255, .1);
+}
+
+
+#cls {
+    padding: 8px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    background-color: #000;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #21ebff;
+    color: #21ebff;
+    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    transition: all 0.3s ease;
+}
+
+#cls:hover {
+    text-shadow:
+        0 0 20px #21ebff,
+        0 0 50px rgba(33, 235, 255, .9),
+        0 0 75px rgba(33, 235, 255, .8),
+        0 0 76px rgba(33, 235, 255, .7),
+        0 0 77px rgba(33, 235, 255, .6),
+        0 0 78px rgba(33, 235, 255, .5),
+        0 0 79px rgba(33, 235, 255, .4),
+        0 0 80px rgba(33, 235, 255, .3),
+        0 0 85px rgba(33, 235, 255, .2),
+        0 0 99px rgba(33, 235, 255, .1);
+}
+
+#paste {
+    padding: 6px 30px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    background-color: #000;
+    border: 1px solid #21ebff;
+    color: #21ebff;
+    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    transition: all 0.3s ease;
+}
+
+#paste:hover {
+    text-shadow:
+        0 0 20px #21ebff,
+        0 0 50px rgba(33, 235, 255, .9),
+        0 0 75px rgba(33, 235, 255, .8),
+        0 0 76px rgba(33, 235, 255, .7),
+        0 0 77px rgba(33, 235, 255, .6),
+        0 0 78px rgba(33, 235, 255, .5),
+        0 0 79px rgba(33, 235, 255, .4),
+        0 0 80px rgba(33, 235, 255, .3),
+        0 0 85px rgba(33, 235, 255, .2),
+        0 0 99px rgba(33, 235, 255, .1);
+}
+
+#copyvideo {
+    padding: 6px 30px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    background-color: #000;
+    border: 1px solid #21ebff;
+    color: #21ebff;
+    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    transition: all 0.3s ease;
+}
+
+#copyvideo:hover {
+    text-shadow:
+        0 0 20px #21ebff,
+        0 0 50px rgba(33, 235, 255, .9),
+        0 0 75px rgba(33, 235, 255, .8),
+        0 0 76px rgba(33, 235, 255, .7),
+        0 0 77px rgba(33, 235, 255, .6),
+        0 0 78px rgba(33, 235, 255, .5),
+        0 0 79px rgba(33, 235, 255, .4),
+        0 0 80px rgba(33, 235, 255, .3),
+        0 0 85px rgba(33, 235, 255, .2),
+        0 0 99px rgba(33, 235, 255, .1);
+}
