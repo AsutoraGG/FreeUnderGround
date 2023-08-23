@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const notSupportVideoType = ["wav", "avi", "wmv"] // sorry not working now..
+  const notSupportVideoType = ["wav", "avi", "wmv", "mov"] // working now maybe
 
   function converter(url) { // Main Code
     for (let i = 0; i < notSupportVideoType.length; i++) { // Check VideoType
       if (url.includes(notSupportVideoType[i])) {
-        return alert("Sorry! Unknown Video Type")
+        url = url.replace(notSupportVideoType[i], "mp4")
       }
     }
     const parts = url.split('/');
