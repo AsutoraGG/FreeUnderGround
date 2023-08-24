@@ -30,20 +30,20 @@ h1 {
     margin-bottom: 10px;
     margin-left: 50px;
     background-color: black;
-    /* 背景を黒に */
+    /* èƒŒæ™¯ã‚’é»’ã« */
     border: 2px solid white;
-    /* outlineを白に */
+    /* outlineã‚’ç™½ã« */
     color: rgb(176, 217, 255);
-    /* テキストを青に */
+    /* ãƒ†ã‚­ã‚¹ãƒˆã‚’é’ã« */
 }
 
 #convertButton {
-    padding: 8px 50px;
+    padding: 8px 40px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     background-color: #000;
     border: 1px solid #21ebff;
-    margin-left: 50px;
+    margin-left: 60px;
     margin-right: 10px;
     margin-bottom: 10px;
     color: #21ebff;
@@ -66,9 +66,8 @@ h1 {
         0 0 99px rgba(33, 235, 255, .1);
 }
 
-
 #cls {
-    padding: 8px 50px;
+    padding: 8px 55px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     background-color: #000;
@@ -96,55 +95,55 @@ h1 {
 }
 
 #paste {
-    padding: 6px 30px;
-    margin-left: 100px;
+    padding: 6px 20px;
+    margin-left: 90px;
     margin-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     background-color: #000;
-    border: 1px solid #21ebff;
-    color: #21ebff;
-    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    border: 1px solid #f8ff21;
+    color: #f8ff21;
+    box-shadow: 0 0 5px #f8ff21, 0 0 5px #f8ff21 inset;
     transition: all 0.3s ease;
 }
 
 #paste:hover {
     text-shadow:
-        0 0 20px #21ebff,
-        0 0 50px rgba(33, 235, 255, .9),
-        0 0 75px rgba(33, 235, 255, .8),
-        0 0 76px rgba(33, 235, 255, .7),
-        0 0 77px rgba(33, 235, 255, .6),
-        0 0 78px rgba(33, 235, 255, .5),
-        0 0 79px rgba(33, 235, 255, .4),
-        0 0 80px rgba(33, 235, 255, .3),
-        0 0 85px rgba(33, 235, 255, .2),
-        0 0 99px rgba(33, 235, 255, .1);
+        0 0 20px #f8ff21,
+        0 0 50px rgba(255, 255, 33, .9),
+        0 0 75px rgba(255, 255, 33, .8),
+        0 0 76px rgba(255, 255, 33, .7),
+        0 0 77px rgba(255, 255, 33, .6),
+        0 0 78px rgba(255, 255, 33, .5),
+        0 0 79px rgba(255, 255, 33, .4),
+        0 0 80px rgba(255, 255, 33, .3),
+        0 0 85px rgba(255, 255, 33, .2),
+        0 0 99px rgba(255, 255, 33, .1);
 }
 
 #copyvideo {
-    padding: 6px 30px;
-    margin-left: 0px;
+    padding: 6px 35px;
+    margin-left: 19px;
     margin-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     background-color: #000;
-    border: 1px solid #21ebff;
-    color: #21ebff;
-    box-shadow: 0 0 5px #21ebff, 0 0 5px #21ebff inset;
+    border: 1px solid #f8ff21;
+    color: #f8ff21;
+    box-shadow: 0 0 5px #f8ff21, 0 0 5px #f8ff21 inset;
     transition: all 0.3s ease;
 }
 
 #copyvideo:hover {
     text-shadow:
-        0 0 20px #21ebff,
-        0 0 50px rgba(33, 235, 255, .9),
-        0 0 75px rgba(33, 235, 255, .8),
-        0 0 76px rgba(33, 235, 255, .7),
-        0 0 77px rgba(33, 235, 255, .6),
-        0 0 78px rgba(33, 235, 255, .5),
-        0 0 79px rgba(33, 235, 255, .4),
-        0 0 80px rgba(33, 235, 255, .3),
-        0 0 85px rgba(33, 235, 255, .2),
-        0 0 99px rgba(33, 235, 255, .1);
+        0 0 20px #f8ff21,
+        0 0 50px rgba(255, 255, 33, .9),
+        0 0 75px rgba(255, 255, 33, .8),
+        0 0 76px rgba(255, 255, 33, .7),
+        0 0 77px rgba(255, 255, 33, .6),
+        0 0 78px rgba(255, 255, 33, .5),
+        0 0 79px rgba(255, 255, 33, .4),
+        0 0 80px rgba(255, 255, 33, .3),
+        0 0 85px rgba(255, 255, 33, .2),
+        0 0 99px rgba(255, 255, 33, .1);
 }
