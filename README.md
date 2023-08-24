@@ -1,6 +1,6 @@
 # UnderGround Converter 　
 大体全部見れたけど一部見れないのがある   
-[Download ZIP](https://github.com/AsutoraGG/idk/archive/refs/heads/main.zip)からダウンロードしてGoogleの拡張機能のページ(chrome://extensions/)を開いてデベロッパーモードを有効にしたら**パッケージ化されてない拡張機能を読み込む**を押してダウンロードしたzipファイルを選ぶ  
+[Download ZIP](https://github.com/AsutoraGG/idk/archive/refs/heads/main.zip)からダウンロードしてzipファイルを解凍してGoogleの拡張機能のページ(chrome://extensions/)を開いてデベロッパーモードを有効にしたら**パッケージ化されてない拡張機能を読み込む**を押してダウンロードして回答したフォルダーを選択する
   ![image](https://github.com/AsutoraGG/idk/assets/76235964/30c1e6a4-178a-4b2b-a65f-25944f8559a0)
 
 ## 使い方
