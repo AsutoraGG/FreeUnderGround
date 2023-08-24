@@ -1,3 +1,8 @@
+* {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
 .popup-container {
     width: 500px;
     height: 100px;
@@ -146,4 +151,11 @@ h1 {
         0 0 80px rgba(255, 255, 33, .3),
         0 0 85px rgba(255, 255, 33, .2),
         0 0 99px rgba(255, 255, 33, .1);
+}
+
+#info {
+    color: #ff0202;
+    font-family: "MS PGothic";
+    margin-right: 10px;
+    margin-left: 90px;
 }
