@@ -1,5 +1,5 @@
 # UnderGround Converter 　
-大体全部見れたけど一部見れないのがある   
+**大体の動画(例:　生きたメキシコ)は見れたんですが一部の動画が見れない場合があります**    
 [Download ZIP](https://github.com/AsutoraGG/idk/archive/refs/heads/main.zip)からダウンロードしてzipファイルを解凍してGoogleの拡張機能のページ(chrome://extensions/)を開いてデベロッパーモードを有効にしたら**パッケージ化されてない拡張機能を読み込む**を押してダウンロードして解凍したフォルダーを選択する  
   ![image](https://github.com/AsutoraGG/idk/assets/76235964/30c1e6a4-178a-4b2b-a65f-25944f8559a0)
 
