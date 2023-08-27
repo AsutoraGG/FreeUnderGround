@@ -1,6 +1,7 @@
 # UnderGround Converter 　
-**大体の動画(例:　生きたメキシコ)は見れたんですが一部の動画が見れない場合があります**    
-[Download ZIP](https://github.com/AsutoraGG/idk/archive/refs/heads/main.zip)からダウンロードしてzipファイルを解凍してGoogleの拡張機能のページ(chrome://extensions/)を開いてデベロッパーモードを有効にしたら**パッケージ化されてない拡張機能を読み込む**を押してダウンロードして解凍したフォルダーを選択する  
+**大体の動画(例:生きたメキシコ)は見れたんですが一部の動画が見れない場合があります**    
+[Download ZIP](https://github.com/AsutoraGG/idk/archive/refs/heads/main.zip)からダウンロードしてzipファイルを解凍してGoogleの拡張機能のページ(chrome://extensions/)を開いてデベロッパーモードを有効にしたら**パッケージ化されてない拡張機能を読み込む**を押してダウンロードして解凍したフォルダーを選択する    
+**拡張機能の詳細からサイトの設定->クリップボードを許可にしておいてください**
   ![image](https://github.com/AsutoraGG/idk/assets/76235964/30c1e6a4-178a-4b2b-a65f-25944f8559a0)
 
 ## 使い方
@@ -26,11 +27,11 @@ theYNCの動画の直リンクにつながるためのサムネイル画像URL�
 こんな感じに本来数字の部分が/v/i/d/e/oだとやり方が少し変わりType1でmedia/thumbsをvideosにしたがこの場合media/videosに変えることで見れるようになる。また最後の/...jpgを消して完了   
 変換後: theync.com/media/videos/v/i/d/e/o/video64157.mp4   
 
-### Type3:
-元サムネイルURL:　忘れた
-これはType1,2とほぼ同じだが.mp4の部分が.aviや.movみたいに拡張子が変わっている場合そのURLのままだと見れないため元の拡張子を.mp4に変えることで見れるようになる
+### Type3:   
+元サムネイルURL:　忘れた   
+これはType1,2とほぼ同じだが.mp4の部分が.aviや.movみたいに拡張子が変わっている場合そのURLのままだと見れないため元の拡張子を.mp4に変えることで見れるようになる   
 
 ### Type4:   
-現在見ることのできない動画
-theync.com/media/thumbs/9/4/7/6/9/94769362806e28417b6.mp4/94769362806e28417b6.mp4-3.jpg
-このように全くType1と同じだけど見れない動画があります。変換の仕方が判明したら報告します
+現在見ることのできない動画   
+theync.com/media/thumbs/9/4/7/6/9/94769362806e28417b6.mp4/94769362806e28417b6.mp4-3.jpg   
+このように全くType1と同じだけど見れない動画があります。変換の仕方が判明したら報告します   
