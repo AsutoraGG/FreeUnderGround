@@ -13,12 +13,12 @@ function converter(url) { // Main Code
       parts.splice(3, 2, "videos");
       parts.pop()
   
-      return parts.join('/')
+      return parts.join('/');
     } else if (parts[5] === "v") { // "v/i/d/e/"
       parts[4] = "videos"
       parts.pop()
   
-      return parts.join('/')
+      return parts.join('/');
     }
   }
 
@@ -30,7 +30,7 @@ chrome.runtime.onInstalled.addListener(function () {
     });
 
     chrome.contextMenus.onClicked.addListener((info, tab) => { //メニューをクリックしたときの処理
-        if(info.srcUrl && tab.url.startsWith("https://theync")) { //　画像urlがあるか、画像か、theYNCか
+        if(tab.url.startsWith("https://theync")) {
             const convert = converter(info.srcUrl)
             chrome.tabs.create({
                 url: convert
