@@ -4,12 +4,18 @@
   "version": "1.0",
   "description": "Fuck The YNC",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "contextMenus",
+    "scripting"
   ],
   "icons": {
     "48": "icon.png"
   },
+  "background": {
+    "service_worker": "background.js"
+  },
   "action": {
+    "default_title": "Fuck TheYNC",
     "default_popup": "popup.html",
     "default_icon": {
       "48": "icon.png"
