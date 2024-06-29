@@ -1,4 +1,9 @@
 # UnderGround Converter　
+
+## Important New   
+Maybe they changed algorithm.　  
+This programm is only work specific videos.
+
 ## 使い方動画-> https://vimeo.com/865803054    
    ![image](https://github.com/AsutoraGG/FreeUnderGround/assets/76235964/2a28b8cc-5c1d-4c52-8c68-8ed72816e57f)
 
