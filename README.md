@@ -1,8 +1,8 @@
 # UnderGround Converter　
 
-## Important New   
-Maybe they changed algorithm.　  
-This programm is only work specific videos.
+## お知らせ  
+最近UnderGroundにも2023~2024年のビデオが入り始めました。しかしながら2023~2024の動画の解析方法が不明なため
+現在は見ることができません。よって現在は2023年より前の年からの動画しか視聴することはできません。
 
 ## 使い方動画-> https://vimeo.com/865803054    
    ![image](https://github.com/AsutoraGG/FreeUnderGround/assets/76235964/2a28b8cc-5c1d-4c52-8c68-8ed72816e57f)
